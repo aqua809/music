@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-music-bot-bluspring",
+  "version": "0.4.1",
+  "description": "To test music (myself)",
+  "main": "MusicTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "get-video-id": "^3.0.0",
+    "opusscript": "0.0.6",
+    "youtube-audio-stream": "^0.2.0",
+    "youtube-playlist-info": "^1.1.2",
+    "ytdl-core": "^0.20.2",
+    "ytsearcher": "^1.0.3"
+  }
+}
